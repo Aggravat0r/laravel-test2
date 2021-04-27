@@ -1,0 +1,16 @@
+/*@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';*/
+.table_actions_btns {
+  display: flex;
+  align-items: flex-end;
+}
+
+.table_actions_btns a {
+  width: 150px;
+  margin-right: 10px;
+}
